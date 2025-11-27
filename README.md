@@ -15,9 +15,15 @@
 *   大幅修改了与event相关的部分，如重写了event.EventDispatcher类
 *   修改了shapes的一些不协调处并添加了一些功能，如为shapes中的类添加了update方法
 *   修改了graphics内某些类的某些方法，丰富了Group类的子类
-*   修改了一些子包或子模块的结构，如shapes, window, extlibs
-*   略微调整了一些模块，如text, customtypes
+*   修改了一些子包或子模块的结构，如shapes, math, window
+*   略微调整了一些模块，如text, window, customtypes
 *   暂时删除了一些模块，如gui
+
+## 更新规划
+
+* 修改文档创建相关代码
+* 调整sprite, clock, recourse, image模块
+* 使用PyGLM代替math
 
 
 ## 前提条件
